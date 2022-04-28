@@ -1,4 +1,3 @@
-# KaderArslan_Homework_1
 # CRM Yönetim Sistemi UML Diagram'ın MSSQL de Veritabanını Oluşturma
 
 ### Senaryo
